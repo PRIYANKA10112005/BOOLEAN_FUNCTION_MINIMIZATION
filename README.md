@@ -15,6 +15,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+![image](https://github.com/user-attachments/assets/5dcb27df-84f4-4faf-82f9-a0f86a99f347)
 
 **Logic Diagram**
 
